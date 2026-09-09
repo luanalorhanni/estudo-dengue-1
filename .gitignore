@@ -1,0 +1,7 @@
+# Microdados do SINAN e bases auxiliares — baixe da fonte, nunca versione
+*.csv
+*.xlsx
+*.xls
+*.dbc
+*.dbf
+.ipynb_checkpoints/
